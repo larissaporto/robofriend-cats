@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "NIGHT IN TOKYO";
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local("NIGHT IN TOKYO"),
+    url("./assets/NightinTokyo-bold.ttf") format("truetype");
+}
+
+h1 {
+  font-family: "NIGHT IN TOKYO";
+  font-weight: 200;
+  color: #c9a7eb;
+}
