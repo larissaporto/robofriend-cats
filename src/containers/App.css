@@ -4,7 +4,7 @@
   font-weight: normal;
   src:
     local("NIGHT IN TOKYO"),
-    url("./assets/NightinTokyo-bold.ttf") format("truetype");
+    url("../assets/NightinTokyo-bold.ttf") format("truetype");
 }
 
 h1 {
